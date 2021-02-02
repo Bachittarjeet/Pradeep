@@ -1,0 +1,20 @@
+spread seperator
+prototype inheritance
+type check
+primitive data type
+node threading
+	event loop
+	call back & promises 
+let and var and const
+clousers
+babel
+transfiler 
+webpack
+async await
+rest operator
+object destructuring
+first class function
+
+
+js garden.com website
+es6 type
